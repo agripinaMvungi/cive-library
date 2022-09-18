@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CIVE LIBRARY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="notification">For more information about our application and all its resources we would contact our user using the contact information provided to us by the user upon registration.</string>
+    <string name="setting">Setting</string>
+    <string name="books">Books</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log out</string>
+    <string name="welcome_home">WELCOME HOME</string>
+    <string name="my_profile">My Profile</string>
+    <string name="notification2">UDOM:Embracing Knowledge</string>
+    <string name="display_name_here">display name here...</string>
+</resources>
